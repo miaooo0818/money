@@ -1,0 +1,8 @@
+{
+  "name": "智投智選 SmartTrade AI",
+  "description": "為非專業投資人打造的智慧股市分析與交易輔助工具，提供台美股即時情勢分析、買賣點建議、視覺化財報、AI新聞情緒、投資組合風險圖表與名人持倉跟單追蹤。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
